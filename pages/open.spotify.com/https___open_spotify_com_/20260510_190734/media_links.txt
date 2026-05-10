@@ -1,0 +1,9 @@
+https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg
+https://charts-images.scdn.co/assets/locale_en/regional/daily/region_us_default.jpg
+https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg
+https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_us_default.jpg
+https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_default.jpg
+https://charts-images.scdn.co/assets/locale_en/viral/daily/region_us_default.jpg
+https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico
+https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png
+https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png
